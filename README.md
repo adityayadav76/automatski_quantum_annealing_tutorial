@@ -21,7 +21,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-# Automatski's SDKs
+# Automatski's Quantum SDKs
 
 [Quantum Annealing SDK](https://bit.ly/4ej7yaw)
 
