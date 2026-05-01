@@ -21,7 +21,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-# Automatski's Quantum SDKs
+# Automatski's Quantum SDKs (**Free)
 
 [Quantum Annealing SDK](https://bit.ly/4ej7yaw)
 
@@ -31,3 +31,11 @@ pip install -r requirements.txt
 [Quantum Computing SDK](https://bit.ly/3XU7NDX)
 
 [Getting Started With Quantum Computing Video](https://youtu.be/o4x0YWJ4YMw)
+
+# Automatski's Quantum Playground (**Free)
+
+[Windows Installer](https://automatski-public-s3.s3.amazonaws.com/QuantumPlayground-1.0.0-Setup.exe)
+
+[Ubuntu/Debian Installer](https://automatski-public-s3.s3.amazonaws.com/automatski-quantum-playground_1.0.0_amd64.deb)
+
+[Mac M1-M5 Installer](https://automatski-public-s3.s3.amazonaws.com/automatski-quantum-playground_1.0.0_mac.dmg)
